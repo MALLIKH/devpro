@@ -4,5 +4,10 @@ class demo
   {
   s.o.p("HELLO WORLD");
   }
+  void getData()
+  {
+   demo code
+  }
 }
+
 
